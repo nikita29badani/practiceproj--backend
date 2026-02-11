@@ -51,3 +51,9 @@ node index.js
 
 Then open:
 http://localhost:3000
+
+This is not a production-level authentication system.
+
+It is a foundational backend learning project.
+
+Before building advanced apps with databases, authentication systems, and hashing, understanding request flow and middleware is critical.
