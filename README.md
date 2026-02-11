@@ -45,3 +45,9 @@ Express.js
 Body-parser middleware
 
 HTML (for frontend form)
+▶️ How to Run Locally
+npm install
+node index.js
+
+Then open:
+http://localhost:3000
