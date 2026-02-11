@@ -35,3 +35,13 @@ How middleware processes requests
 How request body data is accessed using body-parser
 
 How Express handles routing
+
+🛠 Tech Stack
+
+Node.js
+
+Express.js
+
+Body-parser middleware
+
+HTML (for frontend form)
