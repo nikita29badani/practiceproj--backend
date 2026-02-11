@@ -15,3 +15,13 @@ Route handling
 Form submission logic
 
 Strong foundations > flashy complexity.
+
+🚀 Project Overview
+
+This is a basic password-protected webpage built using Node.js and Express.
+
+A user enters a password in a form.
+
+If the password matches, a secret page is revealed.
+
+If not, the user is redirected back.
