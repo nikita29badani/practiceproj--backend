@@ -25,3 +25,13 @@ A user enters a password in a form.
 If the password matches, a secret page is revealed.
 
 If not, the user is redirected back.
+
+The goal was to understand:
+
+How POST requests work
+
+How middleware processes requests
+
+How request body data is accessed using body-parser
+
+How Express handles routing
